@@ -31,7 +31,7 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 
 # Video
 > Player
-- [<img src="http://www.videolan.org/favicon.ico" height="16" /> VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+- [<img src="http://images.videolan.org/images/favicon.ico" height="16" /> VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
 > Streaming
 - [<img src="https://obsproject.com/favicon.ico" height="16" /> Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 - [<img src="https://streamlabs.com/favicon.ico" height="16" /> Streamlabs](https://streamlabs.com/) - Easy-to-setup desktop streaming application built for professional streamers (wrapper OBS)
