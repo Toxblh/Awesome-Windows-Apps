@@ -6,7 +6,7 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 - [<img src="https://www.7-zip.org/favicon.ico" height="16" /> 7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked.
 
 # Chat
-- [<img src="https://telegram.org/img/t_logo.png" width="16" height="16" /> Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
+- [<img src="https://desktop.telegram.org/img/td_favicon.ico" width="16" height="16" /> Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
 - [<img src="https://discordapp.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" width="16" height="16" /> Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux.
 
 # Utilities
