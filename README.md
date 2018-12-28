@@ -12,7 +12,7 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 # Utilities
 - [<img src="http://www.voidtools.com/favicon.ico" height="16" /> Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [<img src="https://qbittorrent.org/favicon.ico" height="16" /> qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
-- [<img src="https://s1.pir.fm/pf/icon/sp_128.png" height="16" /> Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
+- [<img src="https://s1.pir.fm/pf/icon/sp_128.png" height="16" /> Speccy](https://www.piriform.com/speccy) - Detailed statistics on every piece of hardware in your computer.
 - [<img src="https://s1.pir.fm/pf/icon/rc_128.png" height="16" /> Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [<img src="https://s1.pir.fm/pf/icon/cc_128.png" height="16" /> CCleaner](https://www.piriform.com/ccleaner) - Tool for cleaning your PC
 - [<img src="https://user-images.githubusercontent.com/1687847/29485863-8cd61b7c-84e2-11e7-97d5-eacc2ba10d28.png" height="16" /> QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
