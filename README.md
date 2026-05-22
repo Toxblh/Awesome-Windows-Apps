@@ -36,6 +36,9 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 - [<img src="https://obsproject.com/favicon.ico" height="16" /> Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 - [<img src="https://streamlabs.com/favicon.ico" height="16" /> Streamlabs](https://streamlabs.com/) - Easy-to-setup desktop streaming application built for professional streamers (wrapper OBS)
 
+> Subtitle
+- [<img src="https://github.com/Blue-B/WhisperSubTranslate/raw/main/assets/icon.png" height="16" /> WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - Free open-source desktop app that turns any video into translated subtitles fully offline (whisper.cpp + local LLM or DeepL/OpenAI/Gemini).
+
 # Editors
 
 > 3D
