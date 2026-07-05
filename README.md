@@ -28,6 +28,7 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 - [<img src="http://www.aimp.ru/favicon.ico" height="16" /> AIMP](http://www.aimp.ru/) - Audio player
 - [<img src="https://www.audacityteam.org/wp-content/uploads/2016/04/cropped-favicon-32x32.png" height="16" /> Audacity](http://audacityteam.org/) - Software for recording and editing sounds.
 - [<img src="https://www.spotify.com/favicon.ico" height="16" /> Spotify](https://www.spotify.com) - Streaming service for music for all your devices
+- [<img src="https://github.com/favicon.ico" height="16" /> Mechvibes X](https://github.com/FytikProdd/mechvibes-x) - Play mechanical keyboard sounds as you type with 3D Spatial Audio and pitch/volume randomization.
 
 # Video
 > Player
