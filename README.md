@@ -35,6 +35,8 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 > Streaming
 - [<img src="https://obsproject.com/favicon.ico" height="16" /> Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming.
 - [<img src="https://streamlabs.com/favicon.ico" height="16" /> Streamlabs](https://streamlabs.com/) - Easy-to-setup desktop streaming application built for professional streamers (wrapper OBS)
+> Editing
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first TypeScript CLI and MCP toolkit for agent-driven video composition and editing with editable plan.json timelines.
 
 # Editors
 
