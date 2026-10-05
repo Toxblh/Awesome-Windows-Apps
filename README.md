@@ -20,6 +20,7 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 - [<img src="https://www.jam-software.com/img/icons/TreeSize-Icon-100.png" height="16" /> TreeSize](https://www.jam-software.com/treesize_free/) - Quickly Scan Directory Sizes and Find Space Hogs
 - [<img src="https://www.teamviewer.com/favicon.ico" height="16" /> TeamViewer](https://www.teamviewer.com) - Remote control and remote support
 - [<img src="https://store-images.s-microsoft.com/image/apps.32551.14453285281266867.d3aaa2bb-8ce7-4db4-bafc-9608916c0e79.6f3786ec-5089-4321-96c5-4ecbc33b28c6?mode=scale&q=90&h=270&w=270&background=%23262626" height="16" /> Monitorian](https://github.com/emoacht/Monitorian) - Monitorian is a Windows desktop tool to adjust the brightness of multiple monitors with ease.
+- [<img src="https://raw.githubusercontent.com/shanghaiyangming/lighttranslate/main/assets/LightTranslate.svg" height="16" /> LightTranslate](https://github.com/shanghaiyangming/lighttranslate) - Open-source Windows selection translator and English dictionary. Press Ctrl+Alt+Q to read a Chinese translation beside the cursor using your own DeepSeek API key.
 
 # Security
 - [<img src="https://content.toolslib.net/content/img/1-logos/d956f352-36a5-59f4-81cd-f5471ede836e.png?s=fdee2033a0a5ec759654450eab084f8a" height="16" /> AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
