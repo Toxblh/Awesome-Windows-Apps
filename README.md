@@ -10,6 +10,7 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 - [<img src="https://discordapp.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" width="16" height="16" /> Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux.
 
 # Utilities
+- [Awayra](https://github.com/AWAYRA/AWAYRA-WPF) - Free, offline eye-rest and movement reminders with independent timers, optional sounds, work hours and snooze.
 - [<img src="http://www.voidtools.com/favicon.ico" height="16" /> Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [<img src="https://qbittorrent.org/favicon.ico" height="16" /> qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
 - [<img src="https://s1.pir.fm/pf/icon/sp_128.png" height="16" /> Speccy](https://www.piriform.com/speccy) - Detailed statistics on every piece of hardware in your computer.
