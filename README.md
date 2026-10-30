@@ -30,6 +30,7 @@ Must have apps which you need to try. This pack it is apps that I use everyday a
 - [<img src="https://www.spotify.com/favicon.ico" height="16" /> Spotify](https://www.spotify.com) - Streaming service for music for all your devices
 
 # Video
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 > Player
 - [<img src="http://images.videolan.org/images/favicon.ico" height="16" /> VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
 > Streaming
